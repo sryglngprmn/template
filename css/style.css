@@ -489,6 +489,7 @@ button.hamburger-menu > i.icon-close {
   #tentang-saya > .wrapper > div {
     width: 100%;
     flex-direction: column;
+    padding: 0px;
   }
   #tentang-saya > .wrapper > div > .foto {
     width: 50%;
